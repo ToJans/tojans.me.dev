@@ -71,7 +71,7 @@ The reason Jos&eacute; is taking all this time and helping me out personally, is
 Elixir platform is developed in a non-windows environment, he has no way to verify whether everything works in a windows environment.
 
 Hence, when I saw [that problem](https://github.com/elixir-lang/elixir/issues/1231), I decided to take ownership, and help him out. 
-I started with a small thing , and slowly got more and more into the essence of Elixir, where I got some really helpfull tips on
+I started with a small thing , and slowly got more and more into the essence of Elixir, where I got some really helpful tips on
 how to achieve things. I am still a novice, but at least I am making some progress here.
 
 ### Conclusion
