@@ -24,6 +24,11 @@ cat matches the profile of a coast guard.
 
 Tom.
 
+### UPDATE
+
+As this mail is now in my mail templates, I might send it manually after reading your mail, so do not
+be offended if you get this message; you might not be part of the list.
+
 
 
 
