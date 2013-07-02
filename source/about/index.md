@@ -24,10 +24,11 @@ You can find more info about his professional career on [his LinkedIn profile](h
 
 ### His company
 
-![The building](http://users.pandora.be/bull/got/hk/carport-na.jpg)
-
 ![Core : Software and consultancy](http://www.corebvba.be/blog/image.axd?picture=2010%2f2%2fCore.gif)
 
 Core BVBA - Nieuwegestraat 76 - B9620 Zottegem - Belgium
 
 +32 9 328.41.65 - Ond.Nr: BE 861.455.911
+
+![The building](http://users.pandora.be/bull/got/hk/carport-na.jpg)
+
