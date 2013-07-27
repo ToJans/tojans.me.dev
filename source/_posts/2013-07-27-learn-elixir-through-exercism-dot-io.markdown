@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learn Elixir through exercism.io"
+title: "Learn Elixir (or Ruby, Javascript, Clojure) through exercism.io"
 date: 2013-07-27 12:04
 comments: true
 categories: 
