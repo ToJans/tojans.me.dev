@@ -31,7 +31,7 @@ Let me walk you through it briefly:
 
 ## An event is a semantic log entry of a state transition.
 
-First we need to define what an semantic/event (log) is.
+First we need to define what a semantic or event log is.
 I assume everyone knows what a state transition and a log entry is, so I will focus on a single 
 word here: semantic.
 
