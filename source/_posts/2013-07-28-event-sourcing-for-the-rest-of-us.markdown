@@ -42,7 +42,7 @@ A transaction log contains things like `update table abc set x=3,y=y+4 where z=1
 The intent might have been a status that was changed, an amount that was set, or even a new business rule  that has been enabled. Without knowing the details of the implementation, there is no way to figure out what this log entry actually means.
 
 A semantic/event log entry looks slightly different; _it makes the intent explicit_ by expressing it in the ubiquitous language, f.e. `Enable business rule 3 for product 123 with a weight of 4`, or in JSON:
-
+<!-- more -->
 ```
 {
     "Enable business rule":
@@ -102,7 +102,7 @@ There are a lot of advantages to using events, but as this might make this blog 
 - Tests/specs understandable by non-developers: `Given [some events] when [doing something] Then [some resulting events]`.
 - Implementation can be changed without having to migrate data: as long as the intent of your event does not change (in that case you will probably need another type of event anyway), you can swap out implementations at will, as you still have your tests/specs to confirm behavior.
 - Logs are understandable by non-developers, and can be used to track bugs/problems.
-- Messaging can be distributed/persisted/postponed/....
+- Using messaging allows things to be distributed/persisted/postponed/....
 - ... lots more ...
 
 I hope this post helps to clarify some issues about event sourcing.
