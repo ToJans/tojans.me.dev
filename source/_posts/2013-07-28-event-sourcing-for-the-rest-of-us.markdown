@@ -41,11 +41,11 @@ A transaction log contains things like `update table abc set x=3,y=y+4 where z=1
 
 The intent might have been a status that was changed, an amount that was set, or even a new business rule  that has been enabled. Without knowing the details of the implementation, there is no way to figure out what this log entry actually means.
 
-A semantic/event log entry looks slightly different; _it makes the intent explicit_ by expressing it in the ubiquitous language, f.e. `Enable business rule 3 for product 123 with a weight of 4`, or in JSON:
+A semantic/event log entry looks slightly different; _it makes the intent explicit_ by expressing it in the ubiquitous language, f.e. `Business rule 3 was enabled for product 123 with a weight of 4`, or in JSON:
 <!-- more -->
 ```
 {
-    "Enable business rule":
+    "Business rule enabled":
     {
         product_id: 123,
         rule: 
@@ -56,6 +56,8 @@ A semantic/event log entry looks slightly different; _it makes the intent explic
     }
 }
 ```
+
+> Note that events are _always in the past tense_, i.e. events are a log entry of state transitions/something that has happened. As such a handler executing an event should not contain any problem logic at all, the only thing the handler should do is persist the state.
 
 As you can imagine, having a semantic/event log makes a world of difference, as it is very explicit; there is no need to figure out the intent of the transitions as opposed to the transaction log.
 
@@ -85,10 +87,10 @@ Now let me show you the event-sourced example.
    def EnableBusinessRule(product_id,rule_id,weight) do
      Guard.that rule_exists(rule_id) and product_exists(product_id) 
      if weight <0 do weight=0
-     :store <- {:'Enable business rule',[product_id:product_id,[rule_id:rule_id,weight:weight]]}
+     :store <- {:'Business rule enabled',[product_id:product_id,[rule_id:rule_id,weight:weight]]}
    end
    
-   def handle(:'Enable business rule',[product_id:product_id,[rule_id:rule_id,weight:weight]]) do
+   def handle(:'Business rule enabled',[product_id:product_id,[rule_id:rule_id,weight:weight]]) do
      sql.execute_non_query('update table abc set x=&2,y=y+&3 where z=&1',[product_id,rule_id,weight]);
    end
 ```
