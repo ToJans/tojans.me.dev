@@ -239,6 +239,10 @@ That's it, you should see the following result (I took `USO` this time):
 
 ![Might be in the 4th wave currently?](http://i.snag.gy/jhvDo.jpg)
 
+## For the lazy
+
+If you do not feel like doing all this work, and would simply like to fiddle around a bit with the source, here it is: [https://github.com/ToJans/ew](https://github.com/ToJans/ew).
+
 # Conclusion
 
 Well, it was pretty easy to setup, most of the time went into getting to know the libraries and work around the limitations. Setting up an app with dynamo seems ceraintly doable, and I will see if I can setup an instance on my VPS for demo purposes (I would add caching to reduce network load and speed it up a bit).
