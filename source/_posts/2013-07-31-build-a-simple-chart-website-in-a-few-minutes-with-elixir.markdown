@@ -223,7 +223,8 @@ As you can see, we also render a view called `views/chart.html`, so we need to c
 </script>
 
 <div id="chart" style="width:90%;height:30em" />
- ```
+```
+
 This is really just a dirty hack, but it works, so I am pleased with it.
 
 Fire up a command window, and once again verify whether everything works:
@@ -233,7 +234,6 @@ mix compile
 mix server
 ```
 Note that I added a title this time as well, so we know what we are seeing.
-
 
 That's it, you should see the following result (I took `USO` this time):
 
