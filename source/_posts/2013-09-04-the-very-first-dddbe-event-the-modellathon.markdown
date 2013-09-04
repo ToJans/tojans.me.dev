@@ -6,16 +6,22 @@ comments: true
 categories: 
 ---
 
-This is my personal review of the first [@DDDBE](https://twitter.com/dddbe) inaugural meeting: a [modelathon](https://modellathon.eventbrite.com/).
+This is my personal review of the first [@DDDBE](https://twitter.com/dddbe) inaugural meeting: a [modellathon](https://modellathon.eventbrite.com/).
 
 # Some background info
 
-So, last night we had the very first event of the Belgian DDD community: a modellathon facilitated by [Mathias Verraes](https://twitter.com/mathiasverraes) and [Stijn Van Nieuwenhuyze](https://twitter.com/stijnvnh), and kindly hosted by the hosting company [Combell](https://twitter.com/combell).
+So, last night we had the very first event of [the Belgian DDD community](http://domaindriven.be/): a modellathon facilitated by [Mathias Verraes](https://twitter.com/mathiasverraes) and [Stijn Vannieuwenhuyse](https://twitter.com/stijnvnh), and kindly hosted by the hosting company [Combell](https://twitter.com/combell).
 
 For the people who do not know the concept of a modellathon - in fact, I think we might even have invented the term maybe, but I am not quite sure -, it was something we spiked like a while a go, while coming back from the [London DDD Exchange](http://skillsmatter.com/event/design-architecture/dddx-2013):
 As we were sitting together on the train with some of the [#CQRSBeers](https://twitter.com/ToJans/statuses/297059516049137664) guys, we considered starting a Belgian DDD community, and having real workshops.
 
 Somehow the idea for first workshop emerged: instead of having hackathons (hacking away on code), why not have a modellathon (hacking away on domain models).
+
+### UPDATE 
+Apparently the modellathon term was [Jef Claes](https://twitter.com/JefClaes)' idea !
+
+<blockquote class="twitter-tweet"><p><a href="https://twitter.com/ToJans">@ToJans</a> For the record, I coined the term on our way back from DDDX ;)</p>&mdash; Jef Claes (@JefClaes) <a href="https://twitter.com/JefClaes/statuses/375266359875481600">September 4, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 So one thing came to another, and all of a sudden we were in this situation:
 
@@ -85,14 +91,14 @@ Well, there is not a lot to say about that from my side, except that you were al
 
 Based on the feedback you provided, I am quite confident we can do a lot more with this community, so once again, everyone, feel free to suggest and improve, or even join!!
 
-We also had - once again - some interesting discussions afterwards, and I even managed to see a fellow DDD practitioner (which shall remain unnamed) perform a musical masterpiece!
+We also had - once again - some interesting discussions afterwards, and I even managed to see a fellow DDD practitioner (which shall remain unnamed) perform a musical masterpiece on the day after!
 
 <blockquote class="twitter-tweet"><p>Marco &quot;owning the didg&quot; at my place ;) <a href="http://t.co/xHFQFNfKde">pic.twitter.com/xHFQFNfKde</a></p>&mdash; Tom Janssens (@ToJans) <a href="https://twitter.com/ToJans/statuses/375169904716296192">September 4, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I hope we see you at the next event!
 
-Tom/(@ToJans)[https://twitter.com/ToJans]
+Tom/[@ToJans](https://twitter.com/ToJans)
 
 T.
 
