@@ -30,7 +30,7 @@ So one thing came to another, and all of a sudden we were in this situation:
 <blockquote class="twitter-tweet"><p>Kickoff of the first <a href="https://twitter.com/DDDBE">@dddbe</a> event the <a href="https://twitter.com/combell">@combell</a> offices: the modellathon! <a href="http://t.co/moCuAjYqqS">pic.twitter.com/moCuAjYqqS</a></p>&mdash; Tom Janssens (@ToJans) <a href="https://twitter.com/ToJans/statuses/374938677522464768">September 3, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!-- more -->
-Our assignment for the workshop was to model a system that was used as a reporting tool in the Kazachtan education system.
+Our assignment for the workshop was to model a system that was used as a reporting tool in the Kazachstan Education System.
 
 This was not your average fictuous model, we even received some official Kazachstan documents:
 
