@@ -10,7 +10,7 @@ This is my personal review of the first [@DDDBE](https://twitter.com/dddbe) inau
 
 # Some background info
 
-So, last night we had the very first event of the Belgian DDD community: a modellathon facilitated by [Mathias Verraes](https://twitter.com/mathiasverraes) and [Stijn Van Nieuwenhuyze](https://twitter.com/stijnvnh), and kindly hosted by the hosting company [Combell](https://twitter.com/combell).
+So, last night we had the very first event of the Belgian DDD community: a modellathon facilitated by [Mathias Verraes](https://twitter.com/mathiasverraes) and [Stijn Vannieuwenhuyse](https://twitter.com/stijnvnh), and kindly hosted by the hosting company [Combell](https://twitter.com/combell).
 
 For the people who do not know the concept of a modellathon - in fact, I think we might even have invented the term maybe, but I am not quite sure -, it was something we spiked like a while a go, while coming back from the [London DDD Exchange](http://skillsmatter.com/event/design-architecture/dddx-2013):
 As we were sitting together on the train with some of the [#CQRSBeers](https://twitter.com/ToJans/statuses/297059516049137664) guys, we considered starting a Belgian DDD community, and having real workshops.
