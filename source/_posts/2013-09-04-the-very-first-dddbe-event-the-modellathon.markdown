@@ -39,7 +39,7 @@ This was not your average fictuous model, we even received some official Kazachs
 
 We were divided into groups of 4 people, trying to make sure that at least one person having experience in domain modelling was in every group. 
 
-Just to elaborate on the "experienced" part: when we asked who had experience in domain model, not a lot of fingers went up, but when we asked who had managed to build a domain model in the past, that somehow turned out to be completely wrong, some more fingers went up. 
+Just to elaborate on the "experienced" part: when we asked who had experience in domain modelling, not a lot of fingers went up, but when we asked who had managed to build a domain model in the past, that somehow turned out to be completely wrong, some more fingers went up. 
 
 The role of the expert was just to find a way to get started, but once you have the juices flowing, the expert's opinion is as valuable as anyone else's. So it is more about facilitating the process then being good in the whole modelling part.
 
