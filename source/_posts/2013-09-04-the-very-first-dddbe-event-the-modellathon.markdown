@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-This is my personal review of the first [@DDDBE](https://twitter.com/dddbe) inaugural meeting: a [modellathon](https://modellathon.eventbrite.com/).
+This is my personal review of the first [@DDDBE](https://twitter.com/dddbe), inaugural meeting: a [modellathon](https://modellathon.eventbrite.com/).
 
 # Some background info
 
