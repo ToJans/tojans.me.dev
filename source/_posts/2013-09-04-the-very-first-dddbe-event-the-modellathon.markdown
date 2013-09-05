@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-This is my personal review of the first [@DDDBE](https://twitter.com/dddbe), inaugural meeting: a [modellathon](https://modellathon.eventbrite.com/).
+This is my personal review of the [@DDDBE](https://twitter.com/dddbe) inaugural meeting: a [modellathon](https://modellathon.eventbrite.com/).
 
 # Some background info
 
@@ -15,7 +15,7 @@ So, last night we had the very first event of [the Belgian DDD community](http:/
 For the people who do not know the concept of a modellathon - in fact, I think we might even have invented the term maybe, but I am not quite sure -, it was something we spiked like a while a go, while coming back from the [London DDD Exchange](http://skillsmatter.com/event/design-architecture/dddx-2013):
 As we were sitting together on the train with some of the [#CQRSBeers](https://twitter.com/ToJans/statuses/297059516049137664) guys, we considered starting a Belgian DDD community, and having real workshops.
 
-Somehow the idea for first workshop emerged: instead of having hackathons (hacking away on code), why not have a modellathon (hacking away on domain models).
+Somehow the idea for the first workshop emerged: instead of having hackathons (hacking away on code), why not have a modellathon (hacking away on domain models).
 
 ### UPDATE 
 Apparently the modellathon term was [Jef Claes](https://twitter.com/JefClaes)' idea !
