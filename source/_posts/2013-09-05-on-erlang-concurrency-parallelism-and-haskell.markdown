@@ -28,7 +28,7 @@ _Remark_: I initially included the original tweets, but this was unreadable, so 
 Clarification: by "Atom", I mean the smallest possible part that can be split on a single thread; in Erlang these are processes, in Haskell these are sparks (i.e. function calls.)
 
 - [So if you talk about a few processors, Erlang will be fast, but if you talk about 100s of processors, Haskell wins!](https://twitter.com/ToJans/statuses/375640209997586432)
-- [OTOH Erlang has OTP with a huge amount of manyears in it, while the thing in Haskell is nowwhere near as mature.](https://twitter.com/ToJans/statuses/375640632720502785)
+- [OTOH Erlang has OTP with a huge amount of manyears in it, while the thing in Haskell is nowhere near as mature.](https://twitter.com/ToJans/statuses/375640632720502785)
 - [The guess is that Erlang will win on the short term, but Haskell might actually win as proc count rises ^ in the future](https://twitter.com/ToJans/statuses/375640882659086338)
 - [Erlang allows concurrency, but not parallelism on the function call level, only on the process level](https://twitter.com/ToJans/statuses/375641060073938945)
 - [While this makes no difference with the current amount of cores, it might make a big difference with &gt; n^2 cores!](https://twitter.com/ToJans/statuses/375641278194520065)
@@ -40,6 +40,9 @@ Clarification: by "Atom", I mean the smallest possible part that can be split on
 In Erlang, the smallest parallelizable unit is a process, while in Haskell, a function call (aka spark) can be, because function calls can share immutable state over several processes, so it has the best of both worlds.
 
 A big plus on the Erlang side of things however, is the "Let it crash approach", and while the probability for bugs might be way lower due the type system, a bug might still occur, and that is actually one of the strengths of the Erlang/OTP system: it requires no defensive programming at all.
+
+<blockquote class="twitter-tweet"><p>First consideration when writing an app: &quot;How do I want this to crash?&quot; - <a href="https://twitter.com/duomark">@duomark</a></p>&mdash; Tom Janssens (@ToJans) <a href="https://twitter.com/ToJans/statuses/375526616220172288">September 5, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The educated guess is that, as the numbers of processors goes up, the requirement for having a language that offers true parallelism (like Haskell) might actually win...
 
