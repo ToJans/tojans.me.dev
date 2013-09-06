@@ -102,3 +102,18 @@ Tom/[@ToJans](https://twitter.com/ToJans)
 
 T.
 
+# More:
+<ul>
+  <li>Belgian Domain-Driven Design community <a href="http://domaindriven.be">domaindriven.be</a></li>
+  <li><a href="http://twitter.com/DDDBE">@DDDBE</a> on Twitter</li>
+  <li><a href="http://verraes.net/2013/09/dddbe-modellathon/">Writeup by Mathias Verraes</a></li>
+  <li><a href="http://www.flickr.com/photos/91274760@N08/sets/72157635393106480/">Photo’s by Stijn Volders</a></li>
+</ul>
+
+# !!! Breaking news !!!
+
+This just came in; _he who shall not be named_ A.K.A. the Mob/Godfather of Event- & Modelstorming approves!
+
+<blockquote class="twitter-tweet"><p>Fantastic blog posts from <a href="https://twitter.com/ToJans">@ToJans</a> <a href="http://t.co/AyV1SxUlvZ">http://t.co/AyV1SxUlvZ</a> and <a href="https://twitter.com/mathiasverraes">@mathiasverraes</a> <a href="http://t.co/PwG2NMR4Jg">http://t.co/PwG2NMR4Jg</a> about <a href="https://twitter.com/search?q=%23eventstorming&amp;src=hash">#eventstorming</a> &amp; <a href="https://twitter.com/search?q=%23modelstorming&amp;src=hash">#modelstorming</a></p>&mdash; ziobrando (@ziobrando) <a href="https://twitter.com/ziobrando/statuses/375725315730837506">September 5, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
