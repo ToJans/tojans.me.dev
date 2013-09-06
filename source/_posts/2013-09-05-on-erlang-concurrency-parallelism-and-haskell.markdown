@@ -48,3 +48,9 @@ The educated guess is that, as the numbers of processors goes up, the requiremen
 
 So we still think that at this moment Erlang is the best choice, but in the future our bets would be on Haskell or similar tools.
 
+# Update
+
+Looks like I have some more reading to do:
+
+<blockquote class="twitter-tweet"><p><a href="https://twitter.com/ToJans">@ToJans</a> <a href="https://twitter.com/ErlangInfo">@ErlangInfo</a> there&#39;s also percept2 <a href="https://t.co/a8Hgm65xYA">https://t.co/a8Hgm65xYA</a></p>&mdash; Andy Richards (@andy_r1ch4rds) <a href="https://twitter.com/andy_r1ch4rds/statuses/375879490981097472">September 6, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
