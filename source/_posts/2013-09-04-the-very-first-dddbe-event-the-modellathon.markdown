@@ -108,6 +108,7 @@ T.
   <li><a href="http://twitter.com/DDDBE">@DDDBE</a> on Twitter</li>
   <li><a href="http://verraes.net/2013/09/dddbe-modellathon/">Writeup by Mathias Verraes</a></li>
   <li><a href="http://www.flickr.com/photos/91274760@N08/sets/72157635393106480/">Photo’s by Stijn Volders</a></li>
+  <li><a href="http://www.jefclaes.be/2013/09/the-first-dddbe-modellathon.html">Writeup by Jef Claes</a></li>
 </ul>
 
 # !!! Breaking news !!!
