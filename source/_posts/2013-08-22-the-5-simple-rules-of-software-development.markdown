@@ -18,6 +18,21 @@ Using this approach also avoids the fact that some people seem to get stuck on t
 
 I would call this deliberate exploration.
 
+### Update - some extras
+
+Just to avoid some mistakes, this should be a really short period of time:
+
+<blockquote class="twitter-tweet"><p><a href="https://twitter.com/talboomerik">@talboomerik</a> <a href="https://twitter.com/unclebobmartin">@unclebobmartin</a> I am talking really short cycles here (i.e. spans of max a few hours, but usually way less)..</p>&mdash; Tom Janssens (@ToJans) <a href="https://twitter.com/ToJans/statuses/384685527040946176">September 30, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p><a href="https://twitter.com/talboomerik">@talboomerik</a> <a href="https://twitter.com/unclebobmartin">@unclebobmartin</a> A typical example would be exploring your temporary solution using a REPL, to see whether it is usable.</p>&mdash; Tom Janssens (@ToJans) <a href="https://twitter.com/ToJans/statuses/384684916509655041">September 30, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+So this is important: I just use these iterations to find a good fit for my solution space, after that I retrofit tests and start doing TDD, or I rewrite it
+using TDD.
+
+
+
 ## 2. TDD retrofit > TDD always
 
 Adhering to my first rule, I tend to switch from duct-tape development to TDD the moment I feel there is some complexity creeping in the code. 

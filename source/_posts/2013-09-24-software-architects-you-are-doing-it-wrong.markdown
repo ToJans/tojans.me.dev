@@ -19,7 +19,7 @@ Well, it looks like chaos, but this is only because I used a big marker and no p
 
 
 <!-- more -->
-## 1. Software architects need to rethink there reason for existence.
+## 1. Software architects need to rethink the reason for their existence.
 ![Why ???](http://i.snag.gy/QWtpz.jpg)
 
 They need to reflect about why they exist. The stereotypical software architect used to be a really intelligent techie somewhat lacking social skills.
