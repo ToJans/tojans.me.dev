@@ -77,7 +77,7 @@ but they are hard to figure out, so they are not simple. If attendees wonder wha
 
 ## Back to the excel thingy
 
-In my opinion (and I thing a lot of the attendees agreed), there is a lot of unexplored opportunity in this hidden gem called excel file refactoring.
+In my opinion (and I think a lot of the attendees agreed), there is a lot of unexplored opportunity in this hidden gem called excel file refactoring.
 The more people start writing higher-level tools, the more the software design principles apply to the configuration/usage of those tools; there will
 probably be a whole brave new world out there...
 
