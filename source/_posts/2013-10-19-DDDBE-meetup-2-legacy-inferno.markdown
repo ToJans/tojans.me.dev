@@ -112,7 +112,7 @@ Nevertheless, a lot of interesting stuff passed, like what is DDD, what is CQRS,
 
 I even got a few minutes to declare my current love for [Erlang](http://www.erlang.org/)/[Elixir](http://elixir-lang.org/), for heaven's sake.
 
-The random quotes [Mathias](http://verraes.net/) wrote down on the whiteboard during the event gives a good overview.
+The random quotes [Mathias](http://verraes.net/) wrote down on the whiteboard during the event provide a good overview.
 
 <blockquote class="twitter-tweet"><p>Yes, yes, yes RT <a href="https://twitter.com/stijnvnh">@stijnvnh</a>: <a href="https://twitter.com/mathiasverraes">@mathiasverraes</a> <a href="https://twitter.com/ylorph">@ylorph</a> <a href="https://twitter.com/DDDBE">@DDDBE</a> some notes extracted from the leancoffee yesterday <a href="http://t.co/ZcuZxOn2mC">pic.twitter.com/ZcuZxOn2mC</a></p>&mdash; Jan Fellien (@janekf) <a href="https://twitter.com/janekf/statuses/391426338772779008">October 19, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
