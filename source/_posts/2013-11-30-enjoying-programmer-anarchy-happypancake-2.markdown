@@ -8,8 +8,8 @@ categories:
 
 Note: This is the second post in a series of posts about my experiences working for [HappyPancake](http://www.happypancake.com/):
  
-- [Introduction & Swedish culture.](enjoying-programmer-anarchy-happypancake)
-- [Working remote.](enjoying-programmer-anarchy-happypancake-2)
+- [Introduction & Swedish culture.](http://tojans.me/blog/2013/11/30/enjoying-programmer-anarchy-happypancake)
+- [Working remote.](http://tojans.me/blog/2013/11/30/enjoying-programmer-anarchy-happypancake-2)
 - Programmer anarchy.
 - The bit with Rinat.
 - The dev stack.

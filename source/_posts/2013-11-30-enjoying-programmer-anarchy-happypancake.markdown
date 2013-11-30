@@ -8,8 +8,8 @@ categories:
 
 Note: This is the first post in a series of posts about my experiences working for [HappyPancake](http://www.happypancake.com/):
  
-- [Introduction & Swedish culture.](enjoying-programmer-anarchy-happypancake)
-- [Working remote.](enjoying-programmer-anarchy-happypancake-2)
+- [Introduction & Swedish culture.](http://tojans.me/blog/2013/11/30/enjoying-programmer-anarchy-happypancake)
+- [Working remote.](http://tojans.me/blog/2013/11/30/enjoying-programmer-anarchy-happypancake-2)
 - Programmer anarchy.
 - The bit with Rinat.
 - The dev stack.
@@ -61,7 +61,7 @@ I don't think I ever needed to use "Opera", but as I am quite a big-mouth Tomas 
 
 This approach to work and life is quite new to me, but also very refreshing. I am looking forward to the next months in the project!
 
-You can find the next blog post on this subject [here](enjoying-programmer-anarchy-happypancake-2).
+You can find the next blog post on this subject [here](http://tojans.me/blog/2013/11/30/enjoying-programmer-anarchy-happypancake-2).
 
 
 
