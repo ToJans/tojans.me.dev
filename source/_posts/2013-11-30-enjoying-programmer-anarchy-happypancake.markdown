@@ -10,11 +10,11 @@ Note: This is the first post in a series of posts about my experiences working f
  
 - [Introduction & Swedish culture.](http://tojans.me/blog/2013/11/30/enjoying-programmer-anarchy-happypancake)
 - [Working remote.](http://tojans.me/blog/2013/11/30/enjoying-programmer-anarchy-happypancake-2)
-- Programmer anarchy.
-- The bit with Rinat.
-- The dev stack.
-- The infrastructure part.
-- ...
+- ~~Programmer anarchy.~~
+- ~~The bit with Rinat.~~
+- ~~The dev stack.~~
+- ~~The infrastructure part.~~
+- [Enjoyed programmer anarchy - looking for the next project](http://tojans.me/blog/2014/01/13/enjoyed-programmer-anarchy-looking-for-the-next-project/)
 
 ## Introduction
 
