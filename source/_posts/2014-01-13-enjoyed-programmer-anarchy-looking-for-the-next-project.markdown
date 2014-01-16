@@ -36,7 +36,7 @@ As my contract was only temporary, I was the one who had to go. (Which is perfec
 
 Business is business, and while it might a few months sooner then provisioned, I had a blast and I hope they did too.
 
-I will now continue working on the FoundationDB Erlang driver for the rest of the month, and that should be it (for now).
+I will now continue working on the [open source FoundationDB Erlang driver](https://github.com/happypancake/fdb-erlang) for the rest of the month, and that should be it (for now).
 
 ### About the future of HappyPancake
 
