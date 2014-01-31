@@ -21,7 +21,7 @@ When people start talking about MSA, they usually mention the fact that a micro-
 
 Luckily, I have had the time to investigate this concept during my [recently finished client project](http://tojans.me/blog/2014/01/13/enjoyed-programmer-anarchy-looking-for-the-next-project/), and it took me a while to grasp the difference; here is the gist of it:
 
-### Micro-services architecture and the human body
+### Micro-service architecture and the human body
 
   > Let's assume I am being chased by a lion. If I he scratches my leg, will that result in a sudden death, i.e. a collapse of my whole body? 
   
@@ -88,4 +88,23 @@ This also implies you need to respect programmer anarchy, but that is the subjec
 
 **PS: I'm currently looking for projects, feel free to [contact me](mailto::tom@corebvba.be).**
 
+<a name="#update">&nbsp;</a>
+## UPDATE
 
+While discussing this post on twitter, I think Simon Guindon hit the nail on the head:
+
+<blockquote class="twitter-tweet" lang="nl"><p><a href="https://twitter.com/gregyoung">@gregyoung</a> <a href="https://twitter.com/ToJans">@ToJans</a> <a href="https://twitter.com/pjvds">@pjvds</a> <a href="https://twitter.com/FransBouma">@FransBouma</a> <a href="https://twitter.com/nntaleb">@nntaleb</a> <a href="https://twitter.com/fgeorge52">@fgeorge52</a> &quot;it&#39;s a mindset&quot; hand waving and struggling to differentiate :)</p>&mdash; Simon Guindon (@simongui) <a href="https://twitter.com/simongui/statuses/429139607561576448">31 januari 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+In my opinion MSA is more about the mindset then about the architecture. When you start from the MSA mindset, you can get rid of a lot of the cruft and overhead that conventional systems typically have. I do assume MSA is not for everyone (f.e. it would probably be completely averse to SOX-compliance).
+
+A key factor is indeed determining where exactly to use MSA, and where not:
+<blockquote class="twitter-tweet" data-conversation="none" lang="nl"><p><a href="https://twitter.com/ToJans">@ToJans</a> <a href="https://twitter.com/gregyoung">@gregyoung</a> <a href="https://twitter.com/pjvds">@pjvds</a> <a href="https://twitter.com/FransBouma">@FransBouma</a> <a href="https://twitter.com/nntaleb">@nntaleb</a> <a href="https://twitter.com/fgeorge52">@fgeorge52</a> interesting post. I think the next step is working out where MSA is suitable.</p>&mdash; Nick (@ntcoding) <a href="https://twitter.com/ntcoding/statuses/428942161430597632">30 januari 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Finally, this:
+<blockquote class="twitter-tweet" lang="nl"><p><a href="https://twitter.com/ToJans">@ToJans</a> <a href="https://twitter.com/pjvds">@pjvds</a> <a href="https://twitter.com/FransBouma">@FransBouma</a> <a href="https://twitter.com/nntaleb">@nntaleb</a> <a href="https://twitter.com/fgeorge52">@fgeorge52</a> <a href="https://twitter.com/simongui">@simongui</a> I dunno in well done systems this stuff is decades old.</p>&mdash; gregyoung (@gregyoung) <a href="https://twitter.com/gregyoung/statuses/429139825300484096">31 januari 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="nl"><p><a href="https://twitter.com/ToJans">@ToJans</a> <a href="https://twitter.com/pjvds">@pjvds</a> <a href="https://twitter.com/FransBouma">@FransBouma</a> <a href="https://twitter.com/nntaleb">@nntaleb</a> <a href="https://twitter.com/fgeorge52">@fgeorge52</a> <a href="https://twitter.com/simongui">@simongui</a> not to say its a bad idea and new naming can help bring it forward</p>&mdash; gregyoung (@gregyoung) <a href="https://twitter.com/gregyoung/statuses/429139899954892800">31 januari 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
