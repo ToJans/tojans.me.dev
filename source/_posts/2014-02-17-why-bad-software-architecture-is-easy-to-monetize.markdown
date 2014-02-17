@@ -35,7 +35,7 @@ They start building it, and after 2 weeks, the whole project is finished. You ar
 
 ## The delivery
 
-Then you get inside, and then you notice the walls are built out of multiplex, there is no isolation; the windows are made out of plexi glass, and there is no running water or electricity provided. However, the house still matches the contract's specifications, so you can't do anything about it legally.
+Then you get inside, and then you notice the walls are built out of multiplex, there is no insulation; the windows are made out of plexi glass, and there is no running water or electricity provided. However, the house still matches the contract's specifications, so you can't do anything about it legally.
 
 ## The fix
 
@@ -45,7 +45,7 @@ They get cracking, and after a few weeks the building is finished. You get some 
 
 ## A few months later
 
-It is now winter. Your tenants start complaining about lack of isolation, and threaten to report you to a non-profit that guards the tenants' rights. So you go back to the contractor, and ask him how much it costs to apply isolation. You decide to accept the extra cost of 50.000 USD, which implies you now have paid the initial 200.000 USD, and had a lot of extra overhead with it.
+It is now winter. Your tenants start complaining about lack of insulation, and threaten to report you to a non-profit that guards the tenants' rights. So you go back to the contractor, and ask him how much it costs to apply insulation. You decide to accept the extra cost of 50.000 USD, which implies you now have paid the initial 200.000 USD, and had a lot of extra overhead with it.
 
 ## Not finished yet
 
