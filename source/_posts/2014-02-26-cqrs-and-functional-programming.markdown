@@ -8,7 +8,10 @@ categories:
 So, a little while ago, while I was studying Haskell, I decided to implement [Greg Young](https://twitter.com/gregyoung)'s 
 [SimpleCQRS example]() in [Haskell](http://www.haskell.org/).
 
-The general response to showing it on the big screen, when I mentioned this contained all of Greg's example's functionality was:
+During the [last @DDDBE event](http://www.eventbrite.com/e/dddbe-5-ddd-basics-registration-9912037170), I was showing this to 
+[Mathias](https://twitter.com/mathiasverraes), and he decided to put it on the big screen.
+
+The general response was:
 
 > What's missing from Greg's example?
 
