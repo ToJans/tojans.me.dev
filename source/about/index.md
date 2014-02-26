@@ -1,28 +1,46 @@
 ---
 layout: page
-title: "About Tom and his company"
+title: "About me"
 date: 2013-06-21 17:55
 comments: false
 sharing: true
 footer: true
 ---
-Tom Janssens is an independent freelance ICT consultant that has been "into computers" ever since the age of 7. Typing source code from a book evolved into exploring the limits of coding in procedural, assembly, object-oriented and functional languages.
+I solve business problems by building software and help organisations to get better at building software.
 
-As he matured in software coding, he started focusing on the problems surrounding software development, and learned that software development is usually about people and interactions first, and about technology second.
+I am one of the founders of [Domain Driven Design Belgium](http://domaindriven.be/).
 
-Due to his diverse track record he gained insights in a lot of aspects of the software development process.
+- Proficient in C#, JavaScript, lover of Erlang, Elixir and more recently Haskell.
+- I love DDD, CQRS and tackling legacy software.
 
-Currently his main focus is on strategic ICT advice, lean product/project development and improving the software development process and architecture. He avoids ivory-tower-approaches by applying and verifying the applicability of the latest tech buzz in software experiments.
+## Contact me
 
-### Exchange ideas with Tom
+I am always looking for projects and opportunities; contact me.
 
-Feel free to [contact Tom]({{ root_url }}/contact).
+- by form: [here]({{ root_url }}/contact)
+- by email: [Tom@corebvba.be](mailto:Tom@corebvba.be)
+- by phone: [+32 478 336 376](tel:+32 478 336 376)
+- by Skype: [Call Tojanss](skype:ToJanss?call) or [Chat with Tojanss](skype:ToJanss?chat)
 
-### Career
+## Some references
 
-You can find more info about his professional career on [his LinkedIn profile](http://www.linkedin.com/in/tomjanssens), or on his [resume](http://resume.linkedinlabs.com/8q1mq55gq).
+### [Vaughn Vernon](http://www.linkedin.com/in/vaughnvernon/) - Software Developer, Trainer, Consultant, IDDDWorkshop
 
-### His company
+> It was a lot of fun to work with Tom during my first European IDDDTour.com Workshops. Tom was very helpful in drawing together members of the DDD community in Belgium, and he also gave a couple of insightful presentations at the IDDD Workshop in Belgium. With Tom's varied experience I look forward to collaborating on projects in the future.
+
+### [Filip Michiels](http://be.linkedin.com/in/filipmichiels/nl) - Chief Information Officer at Jetair/TUI Belgium
+
+> Tom assisted Gateway in raising the maturity of the development teams. Besides improving the solutions for source control, test automation and software development management; he also 'Chinese volunteered' to act as interim team lead during times of extreme workload or absenses. No-nonsense, what you see is what you get, no hidden agendas, easy going but determined. The way I like coworkers best. Keen to work again someday in the future, Tom
+
+### [Andy Vernaillen](http://be.linkedin.com/in/andyvernaillen) - Head of Service Transition Management at GDF Suez
+
+> Tom has worked in my team in several roles (prototyper, problem solver, .NET expert, coach, technical analyst), and has proven to be very good in what he does. He works very good together with both clients as colleagues, and provides an excellent service. He has an extensive technical knowledge, and manages to think out-of-the-box, and provides great solutions within time and budget and with excellent quality. I would be pleased to be able to work with Tom again in the future
+
+### More references
+
+For more references, please check my [LinkedIn Profile](http://be.linkedin.com/in/tomjanssens/)
+
+## My organisation
 
 ![Core : Software and consultancy](http://www.corebvba.be/blog/image.axd?picture=2010%2f2%2fCore.gif)
 
