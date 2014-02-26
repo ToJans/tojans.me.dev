@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 So, a little while ago, while I was studying Haskell, I decided to implement [Greg Young](https://twitter.com/gregyoung)'s 
-[SimpleCQRS example]() in [Haskell](http://www.haskell.org/).
+[SimpleCQRS example](https://github.com/gregoryyoung/m-r/tree/master/SimpleCQRS) in [Haskell](http://www.haskell.org/).
 
 During the [last @DDDBE event](http://www.eventbrite.com/e/dddbe-5-ddd-basics-registration-9912037170), I was showing this to 
 [Mathias](https://twitter.com/mathiasverraes), and he decided to put it on the big screen.
