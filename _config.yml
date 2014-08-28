@@ -2,13 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://ToJans.github.io
+url: http://tojans.me
 title: Tom's ramblings
 subtitle: Random opinionated blurbs
 author: Tom Janssens
 simple_search: http://google.com/search
 description: |
-   <p>Tom builds software and helps organisations to get better at building software.</p>
+   <p>I solve business problems by building software and help organisations to get better at building software.</p>
    
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
